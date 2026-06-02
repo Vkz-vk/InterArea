@@ -26,3 +26,10 @@ Infraestrutura e Formação: A Cidade do Saber funciona como um polo de concerto
 
 # Conclusão 
 A cena musical de Camaçari prova que a identidade do município vai muito além do seu polo industrial. Através da força de artistas como o Afrocidade, da tradição de manifestações centenárias como o Samba de Roda de Parafuso e da grandiosidade de eventos como o Camaforró, a música local consolida-se como um pilar essencial para a preservação histórica, a inclusão social e o desenvolvimento econômico e cultural de toda a região.
+
+# Referências
+https://www.camacari.ba.gov.br/palco-da-diversidade-celebra-a-musica-e-a-cultura-com-muito-samba-e-pagode/
+
+https://www.camacari.ba.gov.br/artistas-bandas-e-grupos-locais-sao-priorizados-2/
+
+https://ri.ufs.br/bitstream/riufs/20577/2/HALISSON_DEIVID_JESUS_OLIVEIRA.pdf
