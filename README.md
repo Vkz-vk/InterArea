@@ -12,10 +12,10 @@ Bahia Gospel Festival: Evento gratuito de grande porte realizado no Espaço Cama
 Conexão Cultural: Evento itinerante promovido pela Secretaria de Cultura de Camaçari. Foca na descentralização da arte nos bairros e localidades como Parafuso, Monte Gordo e Cordoaria, trazendo cortejos e palcos alternativos durante o pré-carnaval.
 
 # Importância Cultural
-# Eixo de Impacto              Descrição das Atividades Culturais
-Resgate Histórico              Manifestações folclóricas centenárias da comunidade de Parafuso, como o Samba de Roda, o Boi Janeiro e o Samba de Caboclo.
-Inclusão de Jovens             Fanfarras e bandas marciais tradicionais, como a BAMUCA e a BAMAT, atuam como projetos sociais contra a vulnerabilidade juvenil.
-Infraestrutura e Formação      A Cidade do Saber funciona como um polo de concertos, espetáculos teatrais e formação continuada em instrumentos e teoria musical.
+# Impactos e descrição das atividades culturais
+Resgate Histórico: Manifestações folclóricas centenárias da comunidade de Parafuso, como o Samba de Roda, o Boi Janeiro e o Samba de Caboclo.
+Inclusão de Jovens: Fanfarras e bandas marciais tradicionais, como a BAMUCA e a BAMAT, atuam como projetos sociais contra a vulnerabilidade juvenil.
+Infraestrutura e Formação: A Cidade do Saber funciona como um polo de concertos, espetáculos teatrais e formação continuada em instrumentos e teoria musical.
 
 # Conclusão 
 A cena musical de Camaçari prova que a identidade do município vai muito além do seu polo industrial. Através da força de artistas como o Afrocidade, da tradição de manifestações centenárias como o Samba de Roda de Parafuso e da grandiosidade de eventos como o Camaforró, a música local consolida-se como um pilar essencial para a preservação histórica, a inclusão social e o desenvolvimento econômico e cultural de toda a região.
