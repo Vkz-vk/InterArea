@@ -12,10 +12,12 @@ Além da pesquisa, o foco é aprender a trabalhar em equipe como na área de tec
 formação dos grupos de trabalho. Cada equipe deve ser composta por no máximo 5
 pessoas. Escolham os integrantes e definam qual será o tema de pesquisa do grupo
 antes de ir para o terminal.
+
 ● Fase 1: Preparação do Ambiente e Briefing Você fará o git clone do repositório
 base da turma. Seu primeiro marco será adicionar seu nome ao arquivo de
 contribuidores no README.md e realizar o seu primeiro commit para validar o
 ambiente.
+
 ● Fase 2: Divisão Temática e Trabalho em Branches A turma será dividida em
 grupos de pesquisa. Para que ninguém apague o trabalho de ninguém, cada grupo
 criará e trabalhará em sua própria Branch (ex: feature-musica-camacari), escrevendo
