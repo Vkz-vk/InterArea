@@ -1,4 +1,4 @@
-# introdução
+# Introdução
 A música é uma das formas de expressão cultural mais presentes na vida dos jovens, influenciando comportamentos, identidades, formas de comunicação e relações sociais. Além de ser uma manifestação artística, ela funciona como instrumento de integração, pertencimento e construção cultural dentro das comunidades. Por meio dos diferentes estilos musicais, os jovens expressam sentimentos, opiniões, vivências e aspectos da realidade em que estão inseridos.
 
 No município de Camaçari, localizado na Região Metropolitana de Salvador, a cultura musical possui grande relevância na formação social e cultural da população. Conhecida nacionalmente por seu polo industrial, a cidade também apresenta forte diversidade cultural, reunindo manifestações artísticas, eventos musicais, projetos sociais e espaços voltados para o desenvolvimento cultural da juventude.
