@@ -15,8 +15,8 @@ As redes sociais ampliam a influência da música. Plataformas como TikTok, Inst
 A música pode influenciar o humor, os hábitos e a forma como os jovens se relacionam com outras pessoas. Além disso, ela promove a socialização, aproximando pessoas com gostos musicais semelhantes e fortalecendo grupos e comunidades.
 
 # Referêcias:
-https://brasilescola.uol.com.br/artes/musica.htm
+DANTAS, Tiago. "Música"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/artes/musica.htm. Acesso em 02 de junho de 2026.
 
-Spotify
+SPOTIFY AB. Spotify. Aplicativo móvel. Disponível em: https://open.spotify.com/intl-pt. Acesso em: 02 junho 2026.
 
-Instagram
+META PLATFORMS, INC. Instagram. Aplicativo móvel. Disponível em: https://www.instagram.com/. Acesso em: 02 junho 2026.
