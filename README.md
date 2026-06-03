@@ -17,7 +17,7 @@ Bahia Gospel Festival: Evento gratuito de grande porte realizado no Espaço Cama
 Conexão Cultural: Evento itinerante promovido pela Secretaria de Cultura de Camaçari. Foca na descentralização da arte nos bairros e localidades como Parafuso, Monte Gordo e Cordoaria, trazendo cortejos e palcos alternativos durante o pré-carnaval.
 
 # Importância Cultural:
-# Impactos e descrição das atividades culturais
+## Impactos e descrição das atividades culturais
 Resgate Histórico: Manifestações folclóricas centenárias da comunidade de Parafuso, como o Samba de Roda, o Boi Janeiro e o Samba de Caboclo.
 
 Inclusão de Jovens: Fanfarras e bandas marciais tradicionais, como a BAMUCA e a BAMAT, atuam como projetos sociais contra a vulnerabilidade juvenil.
