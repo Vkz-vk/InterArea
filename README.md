@@ -18,7 +18,7 @@ __Conexão Cultural__: Evento itinerante promovido pela Secretaria de Cultura de
 
 # Importância Cultural:
 ## Impactos e descrição das atividades culturais
-Resgate Histórico: Manifestações folclóricas centenárias da comunidade de Parafuso, como o Samba de Roda, o Boi Janeiro e o Samba de Caboclo.
+__Resgate Histórico__: Manifestações folclóricas centenárias da comunidade de Parafuso, como o Samba de Roda, o Boi Janeiro e o Samba de Caboclo.
 
 __Inclusão de Jovens__: Fanfarras e bandas marciais tradicionais, como a BAMUCA e a BAMAT, atuam como projetos sociais contra a vulnerabilidade juvenil.
 
